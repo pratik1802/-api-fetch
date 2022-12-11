@@ -1,0 +1,19 @@
+.main img{
+
+    /* border: 1px solid red; */
+    height: 20rem;
+    width: 17.9rem;
+    background-size: cover;
+}
+.card:hover{
+    cursor: pointer;
+    margin-top: -20px;
+    
+}
+.card{
+    box-shadow: 10px 10px 15px gray;
+    transition: all ease .5s;
+}
+.card img{
+    height: 35vh;
+}
